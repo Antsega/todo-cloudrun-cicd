@@ -1,0 +1,24 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000o\u0000-\u0000D\u0000o\u0000-\u0000L\u0000i\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000 \u00005\u0000 \u0000/\u0000 \u00002\u00000\u0000\r\u0000 \u0000C\u0000o\u0000m\u0000p\u0000l\u0000e\u0000t\u0000e\u0000d\u0000 \u00002\u00001\u0000 \u0000A\u0000p\u0000r\u0000i\u0000l\u0000 \u00002\u00000\u00002\u00000\u0000\r\u0000 \u0000\r\u0000 \u0000T\u0000o\u0000-\u0000D\u0000o\u0000-\u0000L\u0000i\u0000s\u0000t\u0000\r\u0000 \u0000F\u0000u\u0000l\u0000l\u0000y\u0000 \u0000F\u0000u\u0000n\u0000c\u0000t\u0000i\u0000o\u0000n\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antsega/To-Do-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antsega/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/Antsega/To-Do-List#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node": "^18.5.0"
+  }
+}
